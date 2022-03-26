@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalpsedalia
 - 👀 I’m interested in sharing knowledge and to contribute in open-source projects.
 - 🌱 I’m currently learning AWS components.
-- 📫 Reach me @ kalpsedalia@gmail.com
+- 📫 Reach me @ kalpsedalia@protonmail.com
 
 <!---
 kalpsedalia/kalpsedalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
